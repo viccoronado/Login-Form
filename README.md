@@ -1,6 +1,8 @@
 # Login form with Passport and Node.js
 
-_Practice of the day: Once you login, you can access to the page. If you don't login to your account, it will redirect you to / login._
+_Once you login, you can access to the page. If you don't login to your account, it will redirect you to / login._
+
+![Error, image not found](https://github.com/viccoronado/Login-Form/blob/main/LoginForm.jpeg)
 
 
 ### Starting 🚀
@@ -19,4 +21,4 @@ node server.js
 
 ## Credits 🖇️
 
-[Códigofacilito](https://www.youtube.com/user/codigofacilito) 
+[Código facilito](https://www.youtube.com/user/codigofacilito) 
