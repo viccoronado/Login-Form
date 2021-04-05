@@ -46,7 +46,6 @@ app.get("/", (req, res, next) => {
 });
 
 app.get("/login", (req, res) => {
-    //Mostrar formulario de login
     res.render("login");
 })
 
