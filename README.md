@@ -17,7 +17,7 @@ node server.js
 - Passport
 - Cookie Parser
 
-## Credits 🖇️
+## Credits 🖋
 
 [Código facilito](https://www.youtube.com/user/codigofacilito) 
 
